@@ -1,6 +1,0 @@
-/* App-level styles (kept minimal; index.css does the heavy lifting) */
-.App {
-  min-height: 100vh;
-  background-color: var(--nx-bg);
-  color: var(--nx-text);
-}
